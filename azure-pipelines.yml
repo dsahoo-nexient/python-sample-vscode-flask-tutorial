@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: dso-self-hosted-pool
+pool: dso-self-hosted-test-pool
 strategy:
   matrix:
     Python38:
